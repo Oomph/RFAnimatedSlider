@@ -1,0 +1,5 @@
+RFAnimatedSlider is a subclass and drop-in replacement NSSlider that uses CoreAnimation to animate between states. It looks exactly like NSSlider because it uses the same drawing routines.
+
+This control will be used in a future version of NetworkLocation
+
+Note: This class requires Mac OS X 10.5 (Leopard) due to its use of CoreAnimation.
